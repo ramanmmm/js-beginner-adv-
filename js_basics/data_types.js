@@ -10,3 +10,12 @@ let name = "kill"
 let radius = 2.05;
 console.log(typeof name)
 console.log(typeof radius +" "+radius)
+
+
+
+let array=["abc","def",123]
+
+let myObj={
+    name:"Raman",
+    roll:123,
+}
